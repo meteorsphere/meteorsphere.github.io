@@ -10,4 +10,4 @@
 //   let html = converter.makeHtml(markdown);
 //   document.body.innerHTML = html;
 // }
-window.location = "https://meteorsphere.github.io/pages/index";
+window.location = "https://meteorsphere.github.io/pages";
