@@ -10,4 +10,4 @@ Meteor Packages maintain by me, meteor support focus on meteor version 2
 meteor add meteorsphere:subs-manager
 ~~~
 
-Goto [Wiki](#pages/wiki)
+Goto [Wiki](/pages/wiki)
